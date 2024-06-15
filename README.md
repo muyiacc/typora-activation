@@ -4,7 +4,7 @@
 
 ### debian
 
-1. download typora relesae
+1. download typora relesae and install it
 
 2. download activation
 
